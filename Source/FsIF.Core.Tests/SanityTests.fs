@@ -3,6 +3,6 @@
     open Xunit
 
     [<Fact>]
-    let ``xunit works`` () =
+    let XunitWorks () =
         Assert.True(true)
         Assert.False(false)
